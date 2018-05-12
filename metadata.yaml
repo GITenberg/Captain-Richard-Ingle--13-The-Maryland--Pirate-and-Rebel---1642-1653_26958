@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32360'
     url: http://www.gutenberg.org/2009/agents/32360
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26958#Captain-Richard-Ingle--13-The-Maryland--Pirate-and-Rebel---1642-1653
 gutenberg_issued: '2008-10-18'
 gutenberg_type: Text
 identifiers:
